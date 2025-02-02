@@ -3,8 +3,8 @@ from datetime import datetime
 import smtplib
 import time
 
-MY_LAT = 52.1123
-MY_LONG = -2.01602
+MY_LAT = **********
+MY_LONG = **********
 
 def is_within_range():
     response = requests.get(url="http://api.open-notify.org/iss-now.json")
