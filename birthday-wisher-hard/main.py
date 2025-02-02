@@ -5,8 +5,8 @@ import datetime as dt
 import pandas
 
 FILES = ["letter_1.txt","letter_2.txt","letter_3.txt"]
-LOGIN = "testpythonaddress@gmail.com"
-APP_PASSWORD = "bgjn wkrh ogtk kjug"
+LOGIN = "**********"
+APP_PASSWORD = "**********"
 
 data = pandas.read_csv("birthdays.csv")
 birthdays_dict = {
